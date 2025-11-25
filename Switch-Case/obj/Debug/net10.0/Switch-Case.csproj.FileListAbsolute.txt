@@ -1,0 +1,15 @@
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\bin\Debug\net10.0\Switch-Case.exe
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\bin\Debug\net10.0\Switch-Case.deps.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\bin\Debug\net10.0\Switch-Case.runtimeconfig.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\bin\Debug\net10.0\Switch-Case.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\bin\Debug\net10.0\Switch-Case.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\obj\Debug\net10.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\obj\Debug\net10.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\obj\Debug\net10.0\Switch-Case.AssemblyInfo.cs
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\obj\Debug\net10.0\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\obj\Debug\net10.0\Switch-Case.sourcelink.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\obj\Debug\net10.0\Switch-Case.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\obj\Debug\net10.0\refint\Switch-Case.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\obj\Debug\net10.0\Switch-Case.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\obj\Debug\net10.0\Switch-Case.genruntimeconfig.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\Switch-Case\obj\Debug\net10.0\ref\Switch-Case.dll
