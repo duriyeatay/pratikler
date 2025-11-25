@@ -1,0 +1,15 @@
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\obj\Debug\net10.0\recursive-extension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\obj\Debug\net10.0\recursive-extension-metotlar.AssemblyInfoInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\obj\Debug\net10.0\recursive-extension-metotlar.AssemblyInfo.cs
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\obj\Debug\net10.0\recursive-extension-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\obj\Debug\net10.0\recursive-extension-metotlar.sourcelink.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\bin\Debug\net10.0\recursive-extension-metotlar.exe
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\bin\Debug\net10.0\recursive-extension-metotlar.deps.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\bin\Debug\net10.0\recursive-extension-metotlar.runtimeconfig.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\bin\Debug\net10.0\recursive-extension-metotlar.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\bin\Debug\net10.0\recursive-extension-metotlar.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\obj\Debug\net10.0\recursive-extension-metotlar.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\obj\Debug\net10.0\refint\recursive-extension-metotlar.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\obj\Debug\net10.0\recursive-extension-metotlar.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\obj\Debug\net10.0\recursive-extension-metotlar.genruntimeconfig.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\recursive-extension-metotlar\obj\Debug\net10.0\ref\recursive-extension-metotlar.dll
