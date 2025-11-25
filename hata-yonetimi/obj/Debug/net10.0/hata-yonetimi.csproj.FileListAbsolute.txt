@@ -1,0 +1,15 @@
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\bin\Debug\net10.0\hata-yonetimi.exe
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\bin\Debug\net10.0\hata-yonetimi.deps.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\bin\Debug\net10.0\hata-yonetimi.runtimeconfig.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\bin\Debug\net10.0\hata-yonetimi.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\bin\Debug\net10.0\hata-yonetimi.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\obj\Debug\net10.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\obj\Debug\net10.0\hata-yonetimi.AssemblyInfoInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\obj\Debug\net10.0\hata-yonetimi.AssemblyInfo.cs
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\obj\Debug\net10.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\obj\Debug\net10.0\hata-yonetimi.sourcelink.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\obj\Debug\net10.0\hata-yonetimi.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\obj\Debug\net10.0\refint\hata-yonetimi.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\obj\Debug\net10.0\hata-yonetimi.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\obj\Debug\net10.0\hata-yonetimi.genruntimeconfig.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hata-yonetimi\obj\Debug\net10.0\ref\hata-yonetimi.dll
