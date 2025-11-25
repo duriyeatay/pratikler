@@ -1,0 +1,15 @@
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\bin\Debug\net10.0\donguler-while-foreach.exe
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\bin\Debug\net10.0\donguler-while-foreach.deps.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\bin\Debug\net10.0\donguler-while-foreach.runtimeconfig.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\bin\Debug\net10.0\donguler-while-foreach.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\bin\Debug\net10.0\donguler-while-foreach.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\obj\Debug\net10.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\obj\Debug\net10.0\donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\obj\Debug\net10.0\donguler-while-foreach.AssemblyInfo.cs
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\obj\Debug\net10.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\obj\Debug\net10.0\donguler-while-foreach.sourcelink.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\obj\Debug\net10.0\donguler-while-foreach.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\obj\Debug\net10.0\refint\donguler-while-foreach.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\obj\Debug\net10.0\donguler-while-foreach.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\obj\Debug\net10.0\donguler-while-foreach.genruntimeconfig.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\donguler-while-foreach\obj\Debug\net10.0\ref\donguler-while-foreach.dll
