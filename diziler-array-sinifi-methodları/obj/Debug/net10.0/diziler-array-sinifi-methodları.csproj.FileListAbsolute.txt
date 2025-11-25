@@ -1,0 +1,15 @@
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\bin\Debug\net10.0\diziler-array-sinifi-methodları.exe
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\bin\Debug\net10.0\diziler-array-sinifi-methodları.deps.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\bin\Debug\net10.0\diziler-array-sinifi-methodları.runtimeconfig.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\bin\Debug\net10.0\diziler-array-sinifi-methodları.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\bin\Debug\net10.0\diziler-array-sinifi-methodları.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\obj\Debug\net10.0\diziler-array-sinifi-methodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\obj\Debug\net10.0\diziler-array-sinifi-methodları.AssemblyInfoInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\obj\Debug\net10.0\diziler-array-sinifi-methodları.AssemblyInfo.cs
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\obj\Debug\net10.0\diziler-array-sinifi-methodları.csproj.CoreCompileInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\obj\Debug\net10.0\diziler-array-sinifi-methodları.sourcelink.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\obj\Debug\net10.0\diziler-array-sinifi-methodları.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\obj\Debug\net10.0\refint\diziler-array-sinifi-methodları.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\obj\Debug\net10.0\diziler-array-sinifi-methodları.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\obj\Debug\net10.0\diziler-array-sinifi-methodları.genruntimeconfig.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\diziler-array-sinifi-methodları\obj\Debug\net10.0\ref\diziler-array-sinifi-methodları.dll
