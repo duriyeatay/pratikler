@@ -1,0 +1,14 @@
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\bin\Debug\net10.0\degiskenler.exe
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\bin\Debug\net10.0\degiskenler.deps.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\bin\Debug\net10.0\degiskenler.runtimeconfig.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\bin\Debug\net10.0\degiskenler.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\bin\Debug\net10.0\degiskenler.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\obj\Debug\net10.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\obj\Debug\net10.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\obj\Debug\net10.0\degiskenler.AssemblyInfo.cs
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\obj\Debug\net10.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\obj\Debug\net10.0\degiskenler.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\obj\Debug\net10.0\refint\degiskenler.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\obj\Debug\net10.0\degiskenler.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\obj\Debug\net10.0\degiskenler.genruntimeconfig.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\degiskenler\obj\Debug\net10.0\ref\degiskenler.dll
