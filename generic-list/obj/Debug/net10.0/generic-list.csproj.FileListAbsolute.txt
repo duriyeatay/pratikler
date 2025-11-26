@@ -1,0 +1,15 @@
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\bin\Debug\net10.0\generic-list.exe
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\bin\Debug\net10.0\generic-list.deps.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\bin\Debug\net10.0\generic-list.runtimeconfig.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\bin\Debug\net10.0\generic-list.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\bin\Debug\net10.0\generic-list.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\obj\Debug\net10.0\generic-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\obj\Debug\net10.0\generic-list.AssemblyInfoInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\obj\Debug\net10.0\generic-list.AssemblyInfo.cs
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\obj\Debug\net10.0\generic-list.csproj.CoreCompileInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\obj\Debug\net10.0\generic-list.sourcelink.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\obj\Debug\net10.0\generic-list.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\obj\Debug\net10.0\refint\generic-list.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\obj\Debug\net10.0\generic-list.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\obj\Debug\net10.0\generic-list.genruntimeconfig.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\generic-list\obj\Debug\net10.0\ref\generic-list.dll
