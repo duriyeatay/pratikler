@@ -1,0 +1,15 @@
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\bin\Debug\net10.0\hazir-metotlar-datetime-math.exe
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\bin\Debug\net10.0\hazir-metotlar-datetime-math.deps.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\bin\Debug\net10.0\hazir-metotlar-datetime-math.runtimeconfig.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\bin\Debug\net10.0\hazir-metotlar-datetime-math.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\bin\Debug\net10.0\hazir-metotlar-datetime-math.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\obj\Debug\net10.0\hazir-metotlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\obj\Debug\net10.0\hazir-metotlar-datetime-math.AssemblyInfoInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\obj\Debug\net10.0\hazir-metotlar-datetime-math.AssemblyInfo.cs
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\obj\Debug\net10.0\hazir-metotlar-datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\obj\Debug\net10.0\hazir-metotlar-datetime-math.sourcelink.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\obj\Debug\net10.0\hazir-metotlar-datetime-math.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\obj\Debug\net10.0\refint\hazir-metotlar-datetime-math.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\obj\Debug\net10.0\hazir-metotlar-datetime-math.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\obj\Debug\net10.0\hazir-metotlar-datetime-math.genruntimeconfig.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\hazir-metotlar-datetime-math\obj\Debug\net10.0\ref\hazir-metotlar-datetime-math.dll
