@@ -1,0 +1,15 @@
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\bin\Debug\net10.0\odev2-koleksiyonlar-Soru2.exe
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\bin\Debug\net10.0\odev2-koleksiyonlar-Soru2.deps.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\bin\Debug\net10.0\odev2-koleksiyonlar-Soru2.runtimeconfig.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\bin\Debug\net10.0\odev2-koleksiyonlar-Soru2.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\bin\Debug\net10.0\odev2-koleksiyonlar-Soru2.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\obj\Debug\net10.0\odev2-koleksiyonlar-Soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\obj\Debug\net10.0\odev2-koleksiyonlar-Soru2.AssemblyInfoInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\obj\Debug\net10.0\odev2-koleksiyonlar-Soru2.AssemblyInfo.cs
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\obj\Debug\net10.0\odev2-koleksiyonlar-Soru2.csproj.CoreCompileInputs.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\obj\Debug\net10.0\odev2-koleksiyonlar-Soru2.sourcelink.json
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\obj\Debug\net10.0\odev2-koleksiyonlar-Soru2.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\obj\Debug\net10.0\refint\odev2-koleksiyonlar-Soru2.dll
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\obj\Debug\net10.0\odev2-koleksiyonlar-Soru2.pdb
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\obj\Debug\net10.0\odev2-koleksiyonlar-Soru2.genruntimeconfig.cache
+C:\Users\Duriye.Atay\OneDrive - LC WAIKIKI MAGAZACILIK HIZMETLERI TIC.A.S\Masaüstü\pratikler\pratikler\odev2-koleksiyonlar-Soru2\obj\Debug\net10.0\ref\odev2-koleksiyonlar-Soru2.dll
